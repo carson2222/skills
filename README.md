@@ -4,9 +4,13 @@ Agent Skills for AI coding agents. Compatible with Claude Code, Cursor, Copilot,
 
 ## Install
 
+Install this skill directly:
+
 ```bash
-npx skills add carson2222/skills
+npx skills add https://github.com/carson2222/skills --skill design-exploration
 ```
+
+Or browse it on [skills.sh](https://skills.sh/carson2222/skills/design-exploration).
 
 ## Available Skills
 
